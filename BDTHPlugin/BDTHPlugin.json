@@ -4,10 +4,10 @@
   "InternalName": "BDTHPlugin",
   "Punchline": "装修辅助",
   "Description": "允许通过坐标轴移动家具并解除摆放限制",
-  "AssemblyVersion": "1.5.7",
+  "AssemblyVersion": "1.5.8",
   "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
   "ApplicableVersion": "any",
   "Tags": ["bdth", "housing", "float", "place", "glitch", "furnishing", "LeonBlade"],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png"
 }
